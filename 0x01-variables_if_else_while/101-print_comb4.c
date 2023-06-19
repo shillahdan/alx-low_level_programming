@@ -21,11 +21,11 @@ int main(void)
 					putchar(n);
 					putchar(m);
 					putchar(k);
-					if (! (n == '7' && m == '8' && k == '9'))
+					if (!(n == '7' && m == '8' && k == '9'))
 					{
 					putchar(',');
 					putchar(' ');
-				  }
+					}
 				}
 				k++;
 			}
