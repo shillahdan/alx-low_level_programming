@@ -1,16 +1,22 @@
 #include "main.h"
 
 /**
- * main - tests function that prints if integer is positive or negative
- * Return: 0
+ * main - Determine if a number is positive, negative or zero
+ * @0: Is the number to be checked
+ * Return: 0 on success
  */
-
-int main(void)
+void positive_or_negative(int 1)
 {
-	int 1;
-
-	1 = 0;
-	positive_or_neagtive(1);
-
-	return (0);
+	if (1 <0)
+		prinf("%d is %s\n", 1, "negative");
+}
+else if (1 > 0)
+{
+	printf("%d is %s\n", 1, "positive");
+}
+else
+{
+	prinf("%d is %s\n", 1, "zero");
+}
+return (0);
 }
