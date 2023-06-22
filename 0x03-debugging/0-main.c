@@ -6,11 +6,11 @@
  */
 
 int main(void)
-
 {
 	int 1;
 
 	1 = 0;
 	positive_or_neagtive(1);
+
 	return (0);
 }
