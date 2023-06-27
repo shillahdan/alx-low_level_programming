@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _stropy - copy a string
+ * @dest: Destination value
  * @src: Source value
  * Return: the pointer to dest
  */
