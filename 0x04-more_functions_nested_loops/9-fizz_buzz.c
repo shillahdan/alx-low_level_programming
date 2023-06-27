@@ -4,7 +4,7 @@
  * main - Entry point
  * Description: prints the number 1 - 100
  * Fizz for multiples of 3, Buzz for multiples of 5,
- * and FizzBuzzbfor multiples of both
+ * and FizzBuzz for multiples of both
  * Return: Always 0
  */
 int main(void)
